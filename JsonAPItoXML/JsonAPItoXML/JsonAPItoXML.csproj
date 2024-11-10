@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="controler\" />
+    <Folder Include="Process\" />
+    <Folder Include="Sink\" />
+  </ItemGroup>
+
 </Project>

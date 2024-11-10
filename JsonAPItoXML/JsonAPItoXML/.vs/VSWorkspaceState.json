@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controler",
+    "\\model",
+    "\\Process",
+    "\\Sink",
+    "\\Source",
+    "\\Transform"
+  ],
+  "SelectedNode": "\\model\\SingletonClient.cs",
+  "PreviewInSolutionExplorer": false
+}

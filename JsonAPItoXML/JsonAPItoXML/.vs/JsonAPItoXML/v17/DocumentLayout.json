@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\SingletonClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:model\\SingletonClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Source\\WebService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\WebService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\Disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:model\\Disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:model\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Source\\WebService.cs",
+              "RelativeDocumentMoniker": "Source\\WebService.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Source\\WebService.cs",
+              "RelativeToolTip": "Source\\WebService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:40:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingletonClient.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\SingletonClient.cs",
+              "RelativeDocumentMoniker": "model\\SingletonClient.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\SingletonClient.cs",
+              "RelativeToolTip": "model\\SingletonClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:39:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\Disciplina.cs",
+              "RelativeDocumentMoniker": "model\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\Disciplina.cs",
+              "RelativeToolTip": "model\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:39:33.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\Aluno.cs",
+              "RelativeDocumentMoniker": "model\\Aluno.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\model\\Aluno.cs",
+              "RelativeToolTip": "model\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:39:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:37:47.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
