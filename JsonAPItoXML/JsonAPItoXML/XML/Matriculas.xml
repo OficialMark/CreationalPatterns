@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMatricula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Matricula>
+    <id>1</id>
+    <alunoId>1</alunoId>
+    <disciplinaId>1</disciplinaId>
+  </Matricula>
+  <Matricula>
+    <id>2</id>
+    <alunoId>1</alunoId>
+    <disciplinaId>2</disciplinaId>
+  </Matricula>
+  <Matricula>
+    <id>3</id>
+    <alunoId>2</alunoId>
+    <disciplinaId>1</disciplinaId>
+  </Matricula>
+</ArrayOfMatricula>

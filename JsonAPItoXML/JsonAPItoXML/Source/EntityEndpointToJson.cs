@@ -14,7 +14,7 @@ namespace JsonAPItoXML.model
             try
             {
                 string url = client.BaseAddress + entidade + "s"; // Exemplo: http://localhost:3000/alunos / "s" pois os endpoints estão no plural  
-                Console.WriteLine(url);
+                Console.WriteLine("EntityEndpointToJson: " + url);
 
                 HttpResponseMessage response = await client.GetAsync(url);
                 response.EnsureSuccessStatusCode();

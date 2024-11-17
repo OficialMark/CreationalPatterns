@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="controler\" />
-    <Folder Include="Process\" />
-    <Folder Include="Sink\" />
+    <Folder Include="XML\" />
   </ItemGroup>
 
 </Project>

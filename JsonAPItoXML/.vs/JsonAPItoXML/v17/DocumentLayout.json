@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\CreationalPatterns\\JsonAPItoXML\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\oficialmark\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\source\\entityendpointtojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|solutionrelative:jsonapitoxml\\source\\entityendpointtojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\oficialmark\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|solutionrelative:jsonapitoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\oficialmark\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\jsonapitoxml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|solutionrelative:jsonapitoxml\\jsonapitoxml.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\oficialmark\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\process\\entityendpointtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|solutionrelative:jsonapitoxml\\process\\entityendpointtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\oficialmark\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\sink\\classtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|solutionrelative:jsonapitoxml\\sink\\classtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|c:\\users\\marco\\source\\repos\\oficialmark\\creationalpatterns\\jsonapitoxml\\jsonapitoxml\\transform\\jsontoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E8A49E-9190-452B-8202-44D3C8CB79FE}|JsonAPItoXML\\JsonAPItoXML.csproj|solutionrelative:jsonapitoxml\\transform\\jsontoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonAPItoXML.csproj",
+              "DocumentMoniker": "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj",
+              "RelativeDocumentMoniker": "JsonAPItoXML\\JsonAPItoXML.csproj",
+              "ToolTip": "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj",
+              "RelativeToolTip": "JsonAPItoXML\\JsonAPItoXML.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T01:23:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EntityEndpointToJson.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Source\\EntityEndpointToJson.cs",
+              "RelativeDocumentMoniker": "JsonAPItoXML\\Source\\EntityEndpointToJson.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Source\\EntityEndpointToJson.cs",
+              "RelativeToolTip": "JsonAPItoXML\\Source\\EntityEndpointToJson.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:46:59.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityEndpointToXML.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Process\\EntityEndpointToXML.cs",
+              "RelativeDocumentMoniker": "JsonAPItoXML\\Process\\EntityEndpointToXML.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Process\\EntityEndpointToXML.cs",
+              "RelativeToolTip": "JsonAPItoXML\\Process\\EntityEndpointToXML.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:25:35.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassToXML.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Sink\\ClassToXML.cs",
+              "RelativeDocumentMoniker": "JsonAPItoXML\\Sink\\ClassToXML.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Sink\\ClassToXML.cs",
+              "RelativeToolTip": "JsonAPItoXML\\Sink\\ClassToXML.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:18:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs",
               "RelativeDocumentMoniker": "JsonAPItoXML\\Program.cs",
-              "ToolTip": "C:\\Users\\marco\\source\\repos\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Program.cs",
               "RelativeToolTip": "JsonAPItoXML\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T18:11:21.634Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonToEntity.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Transform\\JsonToEntity.cs",
+              "RelativeDocumentMoniker": "JsonAPItoXML\\Transform\\JsonToEntity.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\Transform\\JsonToEntity.cs",
+              "RelativeToolTip": "JsonAPItoXML\\Transform\\JsonToEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:42:19.072Z"
             }
           ]
         }
