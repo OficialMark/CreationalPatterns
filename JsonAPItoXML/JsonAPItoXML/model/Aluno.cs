@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JsonAPItoXML.model
 {
-    internal class Aluno
+    public class Aluno
     {
         public string id { get; set; }
         public string nome { get; set; }

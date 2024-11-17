@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace JsonAPItoXML.model
 {
-    internal class Disciplina
+    public class Disciplina
     {
-        public string id;
-        public string nome;
-        public string descricao;
+        public string id { get; set; }
+        public string nome { get; set;}
+        public string descricao { get; set; }
+
+        public void ToString() 
+        { 
+             Console.WriteLine($"Id: {id}, Nome: {nome}, Descricao: {descricao}");
+        }
     }
 }

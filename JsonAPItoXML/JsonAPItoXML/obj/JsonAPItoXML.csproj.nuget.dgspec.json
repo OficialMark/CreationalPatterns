@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj": {}
+    "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj": {
+    "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj",
         "projectName": "JsonAPItoXML",
-        "projectPath": "C:\\Users\\marco\\source\\repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj",
+        "projectPath": "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\JsonAPItoXML.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\marco\\Source\\Repos\\OficialMark\\CreationalPatterns\\JsonAPItoXML\\JsonAPItoXML\\obj\\",
         "projectStyle": "PackageReference",
