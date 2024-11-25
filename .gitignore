@@ -1,1 +1,64 @@
+# Arquivos e pastas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# Pastas de saída do Visual Studio
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Pacotes NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Pastas de configurações locais
+.vscode/
+.localhistory/
+.nuget/
+
+# Logs
+*.log
+
+# Cache do Visual Studio
 .vs/
+
+# Configurações temporárias
+*.tlog
+*.lastbuildstate
+
+# Arquivos de backup e temporários
+*.bak
+~$*
+*.tmp
+
+# Diretórios e arquivos gerados por build
+debug/
+release/
+ipch/
+
+# Arquivos específicos de linguagens e frameworks
+# Exemplo: .NET
+project.lock.json
+project.fragment.lock.json
+*.pdb
+*.mdb
+*.ilk
+*.idb
+
+# Arquivos de banco de dados local
+*.mdf
+*.ldf
+
+# Excluir configurações específicas do usuário
+*.csproj.user
+*.vbproj.user
+*.dbmdl
+*.jfm
