@@ -1,22 +1,16 @@
-﻿using JsonAPItoXML.Model;
+﻿using JsonAPItoXML.model.Factories;
+using JsonAPItoXML.Model;
 using JsonAPItoXML.Model.Factories;
 using System.Xml.Serialization;
 
 namespace JsonAPItoXML.Sink
 {
-    internal class ClassToXML : IArchiveFactory
+    public class ClassToXML
     {
-
-        public void CreateArchive<T>(List<T> genericList)
+        public static void Execute<T>(List<T> genericList)
         {
-            string name = typeof(T).Name + "s.xml";
-            string filePath = Path.Combine(ProjectConfig.DirectoryXML, name);
-
-            XmlSerializer serializer = new XmlSerializer(typeof(List<T>));
-            using (TextWriter writer = new StreamWriter(filePath))
-            {
-                serializer.Serialize(writer, genericList);
-            }
+            XMLFactory factory = new XMLFactory();
+            factory.CreateArchive(genericList);
         }
 
     }

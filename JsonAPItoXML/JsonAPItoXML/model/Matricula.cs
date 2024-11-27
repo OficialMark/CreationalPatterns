@@ -16,5 +16,15 @@ namespace JsonAPItoXML.model
         { 
              Console.WriteLine($"Id: {id}, AlunoId: {alunoId}, DisciplinaId: {disciplinaId}");
         }
+
+        public Matricula Clone()
+        {
+            return new Matricula()
+            {
+                id = this.id,
+                alunoId = this.alunoId,
+                disciplinaId = this.disciplinaId
+            };
+        }
     }
 }

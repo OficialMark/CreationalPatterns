@@ -22,8 +22,7 @@ namespace JsonAPItoXML.Process
             string responseBody = await entityToJson.GetJsonAsync(client, entidade);
             List<T> lista = JsonToEntity.Transform<T>(responseBody, entidade);
 
-            ClassToXML fabrica = new ClassToXML(); 
-            fabrica.CreateArchive<T>(lista);
+            ClassToXML.Execute<T>(lista);
         }
     }
 }

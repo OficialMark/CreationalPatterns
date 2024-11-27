@@ -16,5 +16,14 @@ namespace JsonAPItoXML.model
         { 
              Console.WriteLine($"Id: {id}, Nome: {nome}, Endereco: {endereco}");
         }
+
+        public Aluno Clone() {
+            return new Aluno()
+            {
+                id = this.id,
+                nome = this.nome,
+                endereco = this.endereco
+            };
+        }
     }
 }

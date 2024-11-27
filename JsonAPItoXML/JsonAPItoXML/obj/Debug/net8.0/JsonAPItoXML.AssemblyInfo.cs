@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonAPItoXML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d5227fbeb53b3c216e54105c9aff6e89fb53af3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a52b915617ad259f9efe6e86f2e9d0e20b95baa")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonAPItoXML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonAPItoXML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
